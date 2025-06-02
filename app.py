@@ -5,7 +5,7 @@ import openai
 import streamlit as st
 
 # — CONFIGURATION —
-OPENAI_MODEL = "o4-mini"
+OPENAI_MODEL = "o3"
 EMBED_MODEL  = "text-embedding-ada-002"
 TOP_K        = 3
 CHUNKS_DIR   = "chunks"
